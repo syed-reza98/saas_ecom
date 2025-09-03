@@ -1,0 +1,45 @@
+Dear Concern,
+
+ 
+
+Greetings from eCourier ltd.
+
+ 
+
+Please see below for your API credential. This is for information we have no any WordPress plugin.
+
+ 
+
+Sandbox
+
+ 
+
+USER_ID              : I1256 
+
+API-KEY                : N8bz 
+
+API-SECRET         : Z63f4
+
+ 
+
+Production
+
+ 
+
+USER_ID              : I1256 
+
+API-KEY                : kLgg
+
+API-SECRET         : Xa31V
+
+ 
+
+NB: In the staging has sample package and configuration. Only production cover the commercial.  
+
+ 
+
+Single location pickup General Documents: https://ecourier.com.bd/wp-content/uploads/eCourier_Merchant_API_Document_General_v5.4.pdf
+
+ 
+
+Multiple location pickup Reseller Document:  https://ecourier.com.bd/wp-content/uploads/eCourier_Merchant_API_Document_Reseller_v5.4.pdf
