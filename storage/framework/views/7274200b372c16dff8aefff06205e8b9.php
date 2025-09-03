@@ -233,4 +233,4 @@
 </div>
 </body>
 </html>
-<?php /**PATH I:\CodeStorm\Saas_Ecom\saas_ecom\vendor\laravel\telescope\resources\views\layout.blade.php ENDPATH**/ ?>
+<?php /**PATH I:\CodeStorm\Saas_Ecom\saas_ecom\vendor\laravel\telescope\src/../resources/views/layout.blade.php ENDPATH**/ ?>
